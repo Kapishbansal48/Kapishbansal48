@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kapishbansal48&show_icons=true&theme=tokyonight)
+<img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts,react,nodejs,nextjs,mongodb,mysql,docker,git,github,vscode,linux" />
 
 ![Visitor Count](https://count.getloli.com/@Kapishbansal48?theme=3d-num)
